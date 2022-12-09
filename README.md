@@ -4,7 +4,7 @@
 
 - Eigen  >= 3.3.4
 
-- ceres-solver
+- ceres-solver 2.0
 
 - **livox_ros_driver**  [下载地址](https://github.com/Livox-SDK/livox_ros_driver)
 
