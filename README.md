@@ -44,4 +44,4 @@ catkin_ws/src/LiDAR_IMU_Init/result/Initialization_result.txt
 
 ### 4. 最后
 
-更多细节参看[README.bak.md](./README.bak.md)
+更多细节参看->[README.bak.md](./README.bak.md)
